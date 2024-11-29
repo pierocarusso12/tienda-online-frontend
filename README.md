@@ -16,9 +16,7 @@ Clona el repositorio en tu máquina local:
 ```bash
 git clone https://github.com/pierocarusso12/tienda-online-frontend.git
 
-### 2. Inicializar el Proyecto
 
-Abrir la terminal y escribir: npm run dev (Primero se ejecuta el backend y luego el frontend)
 ### Resumen de lo que se ha hecho:
 
 1. **Catálogo de Productos**:
@@ -33,3 +31,7 @@ Abrir la terminal y escribir: npm run dev (Primero se ejecuta el backend y luego
 3. **Extras Opcionales**:
    - Se añadieron notificaciones de éxito/error al añadir o eliminar productos.
    - Se implementó la paginación para mejorar la visualización del catálogo cuando hay muchos productos.
+
+### 2. Inicializar el Proyecto
+
+Abrir la terminal y escribir: npm run dev (Primero se ejecuta el backend y luego el frontend)
